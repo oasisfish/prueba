@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+#content5-7 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #b8312f;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#content5-7 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-7 .mbr-article {
+  color: #fff;
+}
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #326799;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #326799;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-0 .mbr-brand__name a {
+  font-size: 18px;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-size: 15px;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-5 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-5 .btn {
+  font-size: 12px;
+}
+#msg-box3-5 .mbr-article P {
+  text-align: left;
+  color: #ffffff;
+}
+#contacts2-c P {
+  color: #ffffff;
+  font-size: 17px;
+}
+#contacts2-c STRONG {
+  font-size: 16px;
+}
