@@ -35,7 +35,7 @@
               "color": "#b8312f",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "32px"
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -99,7 +99,7 @@
               "font-size": "18px"
             },
             ".mbr-navbar__items a": {
-              "font-size": "15px",
+              "font-size": "13px",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
