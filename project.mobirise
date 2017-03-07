@@ -306,6 +306,15 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            "STRONG": {
+              "font-size": "16px"
+            }
+          },
           "_anchor": "contacts2-c",
           "_params": {
             "paddingTop": 3,
@@ -326,16 +335,7 @@
             }
           },
           "text1": "<strong>DIRECCIÓN</strong><br>Calle Juan Rejón, nº2, 2º B<br>Las Palmas de Gran Canaria<br>Las Palmas<br>España<br><br><b>CONTACTA CON NOSOTROS</b><br>\nEmail: <br>oasisfish@oasisfish.es<br>administración@oasisfish.es<br>\nTeléfono: +34 828 011 391<br>\nFAX: +34 828 011 391",
-          "text2": "",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "17px"
-            },
-            "STRONG": {
-              "font-size": "16px"
-            }
-          }
+          "text2": ""
         },
         {
           "_name": "footer1",
