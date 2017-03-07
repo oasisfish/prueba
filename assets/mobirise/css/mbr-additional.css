@@ -1,11 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 #content5-7 .mbr-header .mbr-header__text {
   text-align: center;
   color: #b8312f;
-  font-family: 'Oxygen', sans-serif;
-  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
 }
 #content5-7 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -13,6 +14,9 @@
 }
 #content5-7 .mbr-article {
   color: #fff;
+}
+#content5-7 .btn {
+  font-size: 12px;
 }
 #ext_menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -30,7 +34,7 @@
   font-size: 18px;
 }
 #ext_menu-0 .mbr-navbar__items a {
-  font-size: 13px;
+  font-size: 14px;
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-5 .mbr-header .mbr-header__text {
@@ -48,8 +52,78 @@
 }
 #contacts2-c P {
   color: #ffffff;
-  font-size: 17px;
+  font-size: 16px;
+  text-align: left;
 }
 #contacts2-c STRONG {
   font-size: 16px;
+  color: #eb6b56;
+}
+#contacts2-c B {
+  color: #f97352;
+}
+#footer1-11 P {
+  text-align: center;
+}
+
+
+#content5-f .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #b8312f;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+}
+#content5-f .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-f .mbr-article {
+  color: #fff;
+}
+#ext_menu-g .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #326799;
+}
+#ext_menu-g .mbr-navbar__section {
+  background: #326799;
+}
+#ext_menu-g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-g .mbr-brand__name a {
+  font-size: 18px;
+}
+#ext_menu-g .mbr-navbar__items a {
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-j .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-j .btn {
+  font-size: 12px;
+}
+#msg-box3-j .mbr-article P {
+  text-align: left;
+  color: #ffffff;
+}
+#contacts2-k P {
+  color: #ffffff;
+  font-size: 16px;
+  text-align: left;
+}
+#contacts2-k STRONG {
+  font-size: 16px;
+  color: #eb6b56;
+}
+#contacts2-k B {
+  color: #f97352;
+}
+#footer1-l P {
+  text-align: center;
 }
