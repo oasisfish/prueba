@@ -12,7 +12,7 @@
     "favicon": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -309,43 +309,44 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "16px",
-              "text-align": "left"
-            },
-            "STRONG": {
-              "font-size": "16px",
-              "color": "#eb6b56"
-            },
-            "B": {
-              "color": "#f97352"
-            }
-          },
-          "_anchor": "contacts2-c",
+          "_anchor": "contacts2-10",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
+            "overlayOpacity": "0.5",
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Calle Juan Rejón, nº2, 2º B",
-              "placeId": "",
-              "state": "loading"
+              "address": "juan rejon, 2, 2B las palmas\n",
+              "placeId": "ChIJx5GZmUeVQAwRxlDod-dqwbg",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<br><b>CONTACTA CON NOSOTROS</b><br><b>Email: </b><br><a href=\"mailto:oasisfish@oasisfish.es\" class=\"text-white\">oasisfish@oasisfish.es</a><br><a href=\"mailto:administracion@oasisfish.es\" class=\"text-white\">administración@oasisfish.es</a><br><b>Teléfono:</b>&nbsp;+34 828 011 391<br><b>FAX:</b>&nbsp;+34 828 011 391<br><strong>Dirección:</strong><br>Calle Juan Rejón, nº2, 2º B<br>Las Palmas de Gran Canaria<br>Las Palmas<br>España<br><br><br>",
-          "text2": ""
+          "text1": "<b>Email: </b><br>oasisfish@oasisfish.es<br>administración@oasisfish.es<br><b>Teléfono:</b> +34 828 011 391<br><b>FAX:</b> +34 828 011 391<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Dirección:</strong></p><ul class=\"mbr-contacts__list\"><li>Calle Juan Rejón, nº2, 2º B</li><li>Las Palmas de Gran Canaria</li><li>Las Palmas</li><li>España</li></ul>",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#faaf40"
+            },
+            "UL": {
+              "color": "#faaf40"
+            }
+          }
         },
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "footer1-11",
           "_params": {
             "paddingTop": 3,
@@ -359,12 +360,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Oasisfish S.L.",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "Copyright (c) 2017 Oasisfish S.L."
         }
       ]
     }

@@ -50,17 +50,12 @@
   text-align: left;
   color: #ffffff;
 }
-#contacts2-c P {
-  color: #ffffff;
+#contacts2-10 P {
   font-size: 16px;
-  text-align: left;
+  color: #faaf40;
 }
-#contacts2-c STRONG {
-  font-size: 16px;
-  color: #eb6b56;
-}
-#contacts2-c B {
-  color: #f97352;
+#contacts2-10 UL {
+  color: #faaf40;
 }
 #footer1-11 P {
   text-align: center;
